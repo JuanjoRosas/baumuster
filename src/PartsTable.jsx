@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { DB } from "./firebase/DB"
-import { collection, getCountFromServer, getDocs, query, where } from 'firebase/firestore';
+import { collection, getDocs, query, where } from 'firebase/firestore';
 
 const dataBase = DB();
 
