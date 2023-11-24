@@ -21,6 +21,7 @@ body{
 }
 
 #inputBaumuster{
+    background: #fff;
     width: 30vw;
     height: 3.5vh;
 }
